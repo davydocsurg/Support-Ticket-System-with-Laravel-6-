@@ -1,0 +1,22 @@
+body {
+    background: yellow;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.crt {
+    box-shadow: 0 26px 20px 0 black, 0 20px 50px 0 black;
+    background: yellow;
+}
+
+.ticks{
+    color: rgb(102, 8, 252);
+    font-style: oblique;
+}
+
+.ticks:hover {
+    font-family: fantasy;
+    color: red;
+}
